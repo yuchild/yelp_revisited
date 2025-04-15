@@ -12,3 +12,4 @@ dash>=2.0.0
 pyspark
 spark-rapids-user-tools==24.12.4
 # pip install --extra-index-url=https://pypi.nvidia.com cudf-cu12
+geopandas
